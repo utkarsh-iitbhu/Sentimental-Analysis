@@ -12,7 +12,6 @@ pandas>=0.19
 numpy
 nltk
 tensorflow
-re
 pickle
 spacy
-os
+
