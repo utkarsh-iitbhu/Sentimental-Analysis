@@ -11,7 +11,10 @@ matplotlib>=1.4.3
 pandas>=0.19
 numpy
 nltk
-string
 tensorflow
 seaborn 
 matplotlib.pyplot
+re
+pickle
+spacy
+os
