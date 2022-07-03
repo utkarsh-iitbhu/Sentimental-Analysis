@@ -12,8 +12,6 @@ pandas>=0.19
 numpy
 nltk
 tensorflow
-seaborn 
-matplotlib.pyplot
 re
 pickle
 spacy
