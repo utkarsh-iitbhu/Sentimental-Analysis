@@ -70,3 +70,15 @@ button {
     /* Gives a halt of .2 sec */
     transition: 0.2s ease-in-out;
 }
+
+.green {
+	color:green;
+}
+
+.yellow{
+	color: yellow;
+}
+
+.red{
+	color: red;
+}
