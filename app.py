@@ -64,11 +64,11 @@ def predict():
         
         # 1 positive 2 negative 0 neutral
         if (mx==b):
-            return render_template('index.html', prediction_text='Positive'+' '+str(b))
+            return render_template('index.html', prediction_textb='Positive'+' '+str(b))
         elif (mx==a):
-            return render_template('index.html', prediction_text='Neutral'+' '+str(a))
+            return render_template('index.html', prediction_texta='Neutral'+' '+str(a))
         elif (mx==c):
-            return render_template('index.html', prediction_text='Negative'+' '+str(c))
+            return render_template('index.html', prediction_textc='Negative'+' '+str(c))
         # else:
         #     return render_template('index.html', prediction_text='Cannot classify'+' '+str(a) +' '+str(b) +' '+str(c))
     # else:
