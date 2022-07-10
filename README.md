@@ -10,10 +10,5 @@ Data preprocessing is one of the critical steps in any machine learning project.
 4. Stemming
 5. Sequential modelling
 
-### 1. Get our data
-Dataset consisits 
-Download the dataset from [here](https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset/download)
-
-
-
+### Video link of demonstration of our Sentiments analysis model [Link](https://drive.google.com/file/d/1SeMR9czi9JCSq8bdwgWsnftI9YfOBPft/view?usp=sharing)
 
